@@ -1,2 +1,2 @@
 # TTSDialogues-Forked-By-ForestK1ne
-Jan I Jacek TTS
+Jan I Jacek IVONA 2 SAPI5 Voices Required
