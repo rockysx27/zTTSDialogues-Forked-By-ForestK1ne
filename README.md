@@ -1,7 +1,13 @@
-# zTTSDialogues-Forked-By-ForestK1ne
-works for all mods on gothic I/II credit to fryta from syfaris team I just forked it... 
+Forked the original zTTS [url=https://github.com/Sefaris/zTTSDialogues]original[/url]
+Some of the New Settings Include:
+-'gender' setting removed replaced with 'dialect'
+-volume setting
+-option to set a different dialect for npcs (you have to have it installed).
 
-You need to Ivona and have one of these voices installed:
+[h3]You have to own and have installed one of the following voices:[/h3]
+
+[url=https://harposoftware.com/en/2-main/s-1/index/brand-speech2goivona/category-voices_speech2go]Purchase Ivona Voices[/url]
+
 
 // If the language is Russian
 IVONA 2 Voice Maxim22 = Dialect 0
@@ -34,5 +40,3 @@ IVONA 2 Voice Jacek22 = Dialect 1
 IVONA 2 Voice Maja22 = Dialect 2
 IVONA 2 Voice Ewa22 = Dialect 3
 IVONA 2 Voice Agnieszka22 = Dialect 4
-
-I just Forked no credit to me for the VDF, All Credits to Fryta: https://github.com/Sefaris/zTTSDialogues
