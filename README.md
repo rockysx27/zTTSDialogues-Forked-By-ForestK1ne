@@ -1,4 +1,4 @@
-Forked the original zTTS [url=https://github.com/Sefaris/zTTSDialogues]original[/url]
+Forked the original zTTS [ORIGNIAL LINK](https://github.com/Sefaris/zTTSDialogues/releases)
 Some of the New Settings Include:
 -'gender' setting removed replaced with 'dialect'
 -volume setting
